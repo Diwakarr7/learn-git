@@ -1,2 +1,2 @@
 const hello = "world";
-const hello1 = "world2"
+const hello1 = "world2";
